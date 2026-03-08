@@ -1,0 +1,7 @@
+# Minimal Jekyll config so GitHub Pages builds successfully from branch.
+# baseurl required for project pages (username.github.io/repo-name/)
+baseurl: "/Private-Masker-Site"
+url: "https://namtran1985vn.github.io"
+title: Private Masker
+markdown: kramdown
+permalink: pretty

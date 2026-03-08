@@ -92,6 +92,6 @@ Free users get 480p export with basic face masking. Pro users unlock up to 4K re
 
 ## Contact
 
-**Email:** support@privatemasker.app
+**Email:** private.masker.ai@outlook.com
 
 For support, feature questions, or feedback, we're happy to help.

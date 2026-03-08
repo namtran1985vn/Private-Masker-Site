@@ -31,4 +31,4 @@ Private Masker is an iOS app that uses on-device AI to:
 
 ## Contact
 
-For support or questions: support@privatemasker.app
+For support or questions: private.masker.ai@outlook.com
